@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+
+title: tutorial
+author: Desenvolvido no ambito da cadeira de MDS 2019/20 @ISEC
+email: ""
+description: ""
+repository: "nasa72/teste-ci"
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - script
+
+
